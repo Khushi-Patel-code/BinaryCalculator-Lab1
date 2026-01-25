@@ -46,7 +46,9 @@ BinaryCalculator/
 Make sure Java and Maven are installed.
 
 From the project root directory, run:
-```mvn clean package```
+```
+mvn clean package
+```
 
 ## ▶️ How to run the project
 
