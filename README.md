@@ -53,7 +53,9 @@ mvn clean package
 ## ▶️ How to run the project
 
 After a successful build:
-```java -jar target/BinaryCalculator-1.0.0-jar-with-dependencies.jar```
+```
+java -jar target/BinaryCalculator-1.0.0-jar-with-dependencies.jar
+```
 
 The program will:
 1. Display the current time
