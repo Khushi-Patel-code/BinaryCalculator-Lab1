@@ -70,6 +70,24 @@ To execute all the unit tests:
 
 All tests should pass successfully.
 
+### 📄 Where to find them
+
+**Surefire Test Report (HTML):**
+```target/site/surefire-report.html```
+
+```mvn surefire-report:report```
+
+**Open the following file in a browser:**
+```target/site/surefire-report.html```
+
+This report lists:
+- All test cases executed
+- Passed/failed status
+- Test class and method names
+
+> Note: The target/ directory is excluded from GitHub as required.
+> Test reports can be regenerated locally by running the commands above.
+
 ## ✨ Implemented Functions
 
 The following functions were added to the `Binary` class:
@@ -80,3 +98,10 @@ The following functions were added to the `Binary` class:
 Each function includes at least three test cases in `BinaryTest.java`.
 
 ## 📄 Documentation
+
+JavaDoc comments are included for all newly added methods.  
+Documentation can be generated using:
+
+```mvn javadoc:javadoc```
+
+## 🎥 Demo Video
