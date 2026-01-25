@@ -42,9 +42,22 @@ BinaryCalculator/
 ```
 
 ## ⚙️ How to Build the Project
+
 Make sure Java and Maven are installed.
 
 From the project root directory, run:
 ```mvn clean package```
 
 ## ▶️ How to run the project
+
+After a successful build:
+```java -jar target/BinaryCalculator-1.0.0-jar-with-dependencies.jar```
+
+The program will:
+1. Display the current time
+2. Create two binary numbers
+3. Show results for:
+    - Addition  
+    - OR
+    - AND
+    - Multiplication
