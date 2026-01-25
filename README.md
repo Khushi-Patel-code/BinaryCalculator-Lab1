@@ -3,7 +3,7 @@
 ## 📌 Course Information
 - **Course:** SOFE 3980U – Software Quality & Project Management
 - **Lab:** Lab 1 – Design and Testing
-- **CRN:** 
+- **CRN:** 75766
 - **Student Name:** Khushi
 - **Student ID:** 100940709
 - **Term:** Winter 2026
@@ -46,3 +46,5 @@ Make sure Java and Maven are installed.
 
 From the project root directory, run:
 ```mvn clean package```
+
+## ▶️ How to run the project
