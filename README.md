@@ -119,3 +119,7 @@ mvn javadoc:javadoc
 ```
 
 ## 🎥 Demo Video
+
+## 📸 Screenshots
+
+
