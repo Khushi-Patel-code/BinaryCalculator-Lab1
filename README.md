@@ -70,16 +70,22 @@ The program will:
 
 To execute all the unit tests:
 
-```mvn test```
+```
+mvn test
+```
 
 All tests should pass successfully.
 
 ### 📄 Where to find them
 
 **Surefire Test Report (HTML):**
-```target/site/surefire-report.html```
+```
+target/site/surefire-report.html
+```
 
-```mvn surefire-report:report```
+```
+mvn surefire-report:report
+```
 
 **Open the following file in a browser:**
 ```target/site/surefire-report.html```
