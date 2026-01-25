@@ -17,8 +17,8 @@ The `Binary` class supports basic binary operations including:
 - Bitwise AND
 - Binary multiplication
 
-JUnit test cases are provided to validate the correctness of all implemented operations.
-Screenshots have been added to prove the successfull running of those test cases.
+JUnit test cases are provided to validate the correctness of all implemented operations.  
+Screenshots have been added to demonstrate the successful execution of all implemented test cases and Maven build phases.
 
 ## 🛠️ Technologies Used
 - **Java JDK:** 21
@@ -88,7 +88,9 @@ mvn surefire-report:report
 ```
 
 **Open the following file in a browser:**
-```target/site/surefire-report.html```
+```
+target/site/surefire-report.html
+```
 
 This report lists:
 - All test cases executed
@@ -112,6 +114,8 @@ Each function includes at least three test cases in `BinaryTest.java`.
 JavaDoc comments are included for all newly added methods.  
 Documentation can be generated using:
 
-```mvn javadoc:javadoc```
+```
+mvn javadoc:javadoc
+```
 
 ## 🎥 Demo Video
