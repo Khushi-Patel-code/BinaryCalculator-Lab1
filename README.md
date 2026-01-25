@@ -61,3 +61,22 @@ The program will:
     - OR
     - AND
     - Multiplication
+
+## 🧪 Running Tests
+
+To execute all the unit tests:
+
+```mvn test```
+
+All tests should pass successfully.
+
+## ✨ Implemented Functions
+
+The following functions were added to the `Binary` class:
+- `or(Binary b1, Binary b2)`
+- `and(Binary b1, Binary b2)`
+- `multiply(Binary b1, Binary b2)`
+
+Each function includes at least three test cases in `BinaryTest.java`.
+
+## 📄 Documentation
