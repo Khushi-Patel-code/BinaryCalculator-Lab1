@@ -122,4 +122,14 @@ mvn javadoc:javadoc
 
 ## 📸 Screenshots
 
+The following screenshots demonstrate the successful execution of the project and test cases.
 
+### Binary Calculator Dashboard
+![Binary Calculator Dashboard](Screenshots/BinCalcDash.png)
+
+### Function Output in Terminal
+![terminal Output after functions](Screenshots/Output_in_Terminal.png)
+
+### Surefire report
+![Surefire Report](Screenshots/Surefire_Report.png)
+![Surefire Report](Screenshots/Surefire_Report2.png)
