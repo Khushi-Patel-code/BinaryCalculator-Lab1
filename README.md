@@ -122,7 +122,6 @@ mvn javadoc:javadoc
 You can find my demo video at: [Lab_1 Demo Video](https://drive.google.com/file/d/1O6c5FyR3kU6cld12ptz62i89ktk1mrb0/view?usp=sharing)
 
 ## 📸 Screenshots
-
 The following screenshots demonstrate the successful execution of the project and test cases.
 
 ### Binary Calculator Dashboard
