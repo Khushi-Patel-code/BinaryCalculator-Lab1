@@ -42,6 +42,7 @@ BinaryCalculator/
 ```
 
 ## ⚙️ How to Build the Project
+
 Make sure Java and Maven are installed.
 
 From the project root directory, run:
