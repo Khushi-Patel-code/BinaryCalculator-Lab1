@@ -126,7 +126,6 @@ You can find my demo video at: [Lab_1 Demo Video](https://drive.google.com/file/
 The following screenshots demonstrate the successful execution of the project and test cases.
 
 ### Binary Calculator Dashboard
-
 ![Binary Calculator Dashboard](Screenshots/BinCalcDash.png)
 
 ### Function Output in Terminal
