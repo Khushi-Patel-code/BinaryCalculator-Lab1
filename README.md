@@ -9,6 +9,7 @@
 - **Term:** Winter 2026
 
 ## 📖 Project Description
+
 This project implements an unsigned binary number calculator using Java and Maven.  
 The `Binary` class supports basic binary operations including:
 
