@@ -1,6 +1,7 @@
 # Binary Calculator – Lab 1
 
 ## 📌 Course Information
+
 - **Course:** SOFE 3980U – Software Quality & Project Management
 - **Lab:** Lab 1 – Design and Testing
 - **CRN:** 75766
