@@ -97,6 +97,7 @@ This report lists:
 - Passed/failed status
 - Test class and method names
 
+
 > Note: The `target/` directory is excluded from GitHub as required.
 > Test reports can be regenerated locally by running the commands above.
 
